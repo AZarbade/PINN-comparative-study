@@ -1,0 +1,25 @@
+# to do:
+# ----- ETA: 2 days ----- #
+
+[ ] foundation:
+    [ ] expriment defination
+    [ ] solve for given values
+    [ ] visuals
+    [ ] FINAL: problem statement defination
+
+[ ] analytical solver:
+    [ ] class: to solve for given values
+[ ] nn solver:
+    [ ] dataset creation {train, test, validation}
+    [ ] nn defination
+    [ ] comparisions
+    [ ] visuals
+[ ] pinn solver:
+    [ ] dataset creation {train, test, validation}
+    [ ] pinn defination
+    [ ] comparisions
+    [ ] visuals
+
+[ ] complete comparisions
+[ ] visuals
+[ ] FINAL: report generation

@@ -1,4 +1,4 @@
-# Docker Dev Python
+# Experiment: Spring Dashpot and Mass system. Analysis using different solvers
 
 ### Dependencies:
 - Visual Studio Code. {recommended for easier setup}
@@ -10,7 +10,7 @@
 ### Installation:
 1. Clone the repository.
     ~~~
-    git clone https://github.com/AZarbade/docker_python-dev.git
+    git clone https://github.com/AZarbade/SHM-Experimental.git
     ~~~
 2. Open it in Visual studio code.   
 3. Open command pallet using "Ctrl + Shift + P".   

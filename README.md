@@ -1,4 +1,17 @@
-# Experiment: Spring Dashpot and Mass system. Analysis using different solvers
+<h1 align="center"> A Comparative Study of Analytical, Neural Network, and Physics Informed Neural Network Approaches for Solving Partial Differential Equations</h1>
+
+### About This Project
+- This study aims to compare the effectiveness and performance of three different approaches: Analytical, Neural Networks, and Physics Informed Neural Networks, for solving PDEs across various scenarios.
+
+![Problem Statement](figures/pinn/problem_statement.svg "Problem Statement")
+
+- Neural Network result:
+![NN result](figures/nn/final.svg "NN result")
+
+- Physics Informed Neural Networks result:
+![PINN result](figures/pinn/final.svg "PINN result")
+
+- See jupyter notebooks for more details
 
 ### Dependencies:
 - Visual Studio Code. {recommended for easier setup}

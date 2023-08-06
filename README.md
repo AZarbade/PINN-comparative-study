@@ -6,9 +6,11 @@
 ![Problem Statement](figures/pinn/problem_statement.svg "Problem Statement")
 
 - Neural Network result:
+
 ![NN result](figures/nn/final.svg "NN result")
 
 - Physics Informed Neural Networks result:
+
 ![PINN result](figures/pinn/final.svg "PINN result")
 
 - See jupyter notebooks for more details

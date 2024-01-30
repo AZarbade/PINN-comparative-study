@@ -1,7 +1,11 @@
 <h1 align="center"> A Comparative Study of Analytical, Neural Network, and Physics Informed Neural Network Approaches for Solving Partial Differential Equations</h1>
 
 ### About This Project
-- This study aims to compare the effectiveness and performance of three different approaches: Analytical, Neural Networks, and Physics Informed Neural Networks, for solving PDEs across various scenarios.
+- 🔭 This study aims to compare the effectiveness and performance of three different approaches: Analytical, Neural Networks, and Physics Informed Neural Networks, for solving PDEs across various scenarios.
+- 👓 Supervised and developed under **Armament Research & Development Establishment, Pashan, Pune 411021, India**
+- 🔮 The project aims to create a neural network pipeline to interpolate simulation data
+- 🌱 If successful, this project has the potential to significantly reduce the time and compute required for experiment development processes
+- 🏗️ Made with 💖 using <img height="16" width="16" src="https://cdn.simpleicons.org/pytorch" style="vertical-align: bottom;"/>
 
 ![Problem Statement](figures/pinn/problem_statement.svg "Problem Statement")
 
